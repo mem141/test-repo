@@ -1,2 +1,2 @@
 # test-repo
-This is a test repo to learn the process
+This is my demo to learn the process
